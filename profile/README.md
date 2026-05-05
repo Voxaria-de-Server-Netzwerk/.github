@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi 👋
+Wir sind Voxaria.de, ein deutsches Minecraft-Netzwerk, dass seit Januar 2026 im Aufbau ist und am 02.05.2026 seinen ersten Spielmodus, Survival - auch bekannt als SMP, gelaunched hat.
+
+Hier speichern unsere Devs und die Server Leitung unsere Plugins und unserer [Website](https://voxaria.de/) zwischen, um zusammen an ihnen weiterarbeiten zu können.
+
+### Du möchtest mitmachen?
+Wir würden uns sehr über deine Unterstützung freuen! Bewerbe dich doch gerne auf unserem [Discord](https://discord.voxaria.de/) und wir schauen dann, wo du uns unterstützen kannst.
+
 
 <!--
 
